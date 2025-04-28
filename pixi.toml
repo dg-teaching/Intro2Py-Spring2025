@@ -1,0 +1,25 @@
+[project]
+authors = ["Nicholas A. Del Grosso <delgrosso.nick@gmail.com>"]
+channels = ["conda-forge"]
+description = "Add a short description here"
+name = "Intro to Python"
+platforms = ["win-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+python = ">=3.13.3,<3.14"
+pip = ">=25.1,<26"
+
+[pypi-dependencies]
+numpy = ">=2.2.5, <3"
+matplotlib = ">=3.10.1, <4"
+pandas = ">=2.2.3, <3"
+xarray = ">=2025.3.1, <2026"
+h5py = ">=3.13.0, <4"
+netcdf4 = ">=1.7.2, <2"
+scipy = ">=1.15.2, <2"
+ipykernel = ">=6.29.5, <7"
+seaborn = ">=0.13.2, <0.14"
+pingouin = ">=0.5.5, <0.6"

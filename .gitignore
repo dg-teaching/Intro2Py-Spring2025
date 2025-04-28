@@ -1,1 +1,5 @@
 Day1*/*(SOL)*
+# pixi environments
+.pixi
+*.egg-info
+pixi.lock
