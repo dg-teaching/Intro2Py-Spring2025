@@ -25,4 +25,4 @@ This is a highly-intensive, hands-on workshop, where participants take the time 
 | 3 | "Python Dictionaries" | Metadata and Measurement Data Storage with JSON, YAML, NPY, and HDF5 |
 | 4 | "XArray DataArray and Pandas DataFrame Construction" | Working Labelled Datasets in Behavioral Experiments using XArray and Pandas |
 | 5 | "Practice: Pandas Analysis" | Using Declarative Programming for Advanced Plots with Seaborn |
-| 6 | "Practice: Seaborn Analysis" | Organizing Python Projects |
+| 6 | TBD | TBD |
