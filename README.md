@@ -3,6 +3,18 @@
 This is a highly-intensive, hands-on workshop, where participants take the time to learn Python through practice in small groups.  Each session is organized around a theme, with three exercises done in-class and one homework exercises done in-between sessions to practice and prepare for the next session.
 
 
+## Course Dates
+
+| Session | Date | Time |
+| :-- | :-- | :-- |
+| 1 | Monday, April 28th, 2025 | 9:00 - 12:30, CEST |
+| 2 | Monday, May 5th, 2025 | 9:00 - 12:30, CEST |
+| 3 | Monday, May 12th, 2025 | 9:00 - 12:30, CEST |
+| 4 | Monday, May 19th, 2025 | 9:00 - 12:30, CEST |
+| 5 | Monday, May 26th, 2025 | 9:00 - 12:30, CEST |
+| 6 | Monday, June 2nd, 2025 | 9:00 - 12:30, CEST |
+
+
 ## Course Plan
 
 
