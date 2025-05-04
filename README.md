@@ -1,7 +1,9 @@
 # Intro to Data Analysis for Neuroscientists with Python and Pandas
 
 This is a highly-intensive, hands-on workshop, where participants take the time to learn Python through practice in small groups.  Each session is organized around a theme, with three exercises done in-class and one homework exercises done in-between sessions to practice and prepare for the next session.
+## Homework Dropbox
 
+Before the start of each session, please add your initials to the homework filename and upload your homework file to this dropbox: https://uni-bonn.sciebo.de/s/hrh3aiKrXEFRdcJ
 
 ## Course Dates
 
