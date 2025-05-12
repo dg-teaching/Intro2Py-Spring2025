@@ -1,0 +1,9 @@
+*.dat
+*.json
+*.npy
+*.npz
+*.txt
+*.xml
+*.yaml
+*.yml
+*.h5
