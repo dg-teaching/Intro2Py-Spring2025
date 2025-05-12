@@ -22,9 +22,9 @@ Before the start of each session, please add your initials to the homework filen
 
 | Session | Prep Homework | Main Topics | 
 | :-- | :-- | :-- |
-| 1 | "Getting Started" | Git, Conda/Pixi, Core Python Syntax |
-| 2 | "Core Data Collections and Numpy Functions" | Numpy Array and Matplotlib Plotting Basics for Signal Processing and Image Analysis|
-| 3 | "Python Dictionaries" | Metadata and Measurement Data Storage with JSON, YAML, NPY, and HDF5 |
-| 4 | "XArray DataArray and Pandas DataFrame Construction" | Working Labelled Datasets in Behavioral Experiments using XArray and Pandas |
-| 5 | "Practice: Pandas Analysis" | Using Declarative Programming for Advanced Plots with Seaborn |
-| 6 | TBD | TBD |
+| 1 | Getting Started | Git, Conda/Pixi, Core Python Syntax |
+| 2 | Core Data Collections and Numpy Functions | Numpy Array and Matplotlib Plotting Basics for Signal Processing and Image Analysis|
+| 3 | Python Dictionaries | Metadata and Measurement Data Storage with JSON, YAML, NPY, and HDF5 |
+| 4 | Extracting and Plotting ND Arrays from Image Stacks | Working with 2D and 3D Image Data with Scipy, Scikit-Image, and Napari |
+| 5 | XArray DataArray and Pandas DataFrame Construction | Working Labelled Datasets in Behavioral Experiments using XArray and Pandas |
+| 6 | Practice: Pandas Analysis | Using Declarative Programming for Advanced Plots with Seaborn |
