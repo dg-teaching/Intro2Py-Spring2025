@@ -11,6 +11,8 @@ version = "0.1.0"
 [dependencies]
 python = ">=3.13.3,<3.14"
 pip = ">=25.1,<26"
+scikit-image = ">=0.25.2,<0.26"
+scipy = ">=1.15.2,<2"
 
 [pypi-dependencies]
 numpy = ">=2.2.5, <3"
@@ -23,3 +25,4 @@ scipy = ">=1.15.2, <2"
 ipykernel = ">=6.29.5, <7"
 seaborn = ">=0.13.2, <0.14"
 pingouin = ">=0.5.5, <0.6"
+pooch = ">=1.8.2, <2"
