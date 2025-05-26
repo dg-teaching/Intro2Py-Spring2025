@@ -26,5 +26,5 @@ Before the start of each session, please add your initials to the homework filen
 | 2 | Core Data Collections and Numpy Functions | Numpy Array and Matplotlib Plotting Basics for Signal Processing and Image Analysis|
 | 3 | Python Dictionaries | Metadata and Measurement Data Storage with JSON, YAML, NPY, and HDF5 |
 | 4 | Extracting and Plotting ND Arrays from Image Stacks | Working with 2D and 3D Image Data with Scipy, Scikit-Image, and Napari |
-| 5 | XArray DataArray and Pandas DataFrame Construction | Working Labelled Datasets in Behavioral Experiments using XArray and Pandas |
-| 6 | Practice: Pandas Analysis | Using Declarative Programming for Advanced Plots with Seaborn |
+| 5 | Pandas DataFrame Construction | Analyzing Data with Pandas, Seaborn, and Pingouin |
+| 6 |  XArray DataArray Construction | Using Declarative Programming for Advanced Plots with Seaborn |
