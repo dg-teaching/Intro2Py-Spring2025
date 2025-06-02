@@ -1,5 +1,7 @@
-Day5*/*(SOL)*
+Day6*/*(SOL)*
 # pixi environments
 .pixi
 *.egg-info
 pixi.lock
+Day6*/data
+*.nc
